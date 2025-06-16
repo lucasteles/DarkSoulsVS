@@ -10,7 +10,7 @@ _Dar Souls 1 Fighting Game Idea_
 - Dragonslayer Ornstein
 - Executioner Smough 
 - Priscilla
-- Solaire de Astora
+- Solaire of Astora
 - Havel The Rock
 - Black Knight 
 - Capra Demon
@@ -24,8 +24,9 @@ _Dar Souls 1 Fighting Game Idea_
 - Gravelord Nito
 - Seath the Scaleless
 - Manus, Father of the Abyss
+- Large Mushroom People
 - Siegmeyer of Catarina
-
+- Big Hat Logan
 
 ## Controls
 
